@@ -7,5 +7,7 @@ public class Main {
         hero.Attack(wiln);
         System.out.println(wiln.getHp());
 
+        System.out.println("test2");
+
     }
 }
