@@ -6,6 +6,7 @@ public class Main {
         Enemies wiln = new Enemies("Mob",20,5,2);
         hero.Attack(wiln);
         System.out.println(wiln.getHp());
+        System.out.println("test1");
 
         System.out.println("test2");
 
